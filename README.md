@@ -1,74 +1,67 @@
-🧩 Tic-Tac-Toe
+# 🧩 TIC-TAC-TOE  
 
 A clean and modern Tic-Tac-Toe game with smart AI and multiple difficulty levels.
 
-🎮 Live Demo:
+🎮 **Live Demo:**  
 👉 https://mrsarthakgupta.github.io/tic-tac-toe-main/
 
-🚀 Features
+---
 
-🎯 4 Difficulty Levels
+## 🚀 FEATURES
+- 🎯 Four difficulty levels (Easy, Medium, Hard, Unbeatable)
+- ❎ Play as X or O
+- 🤖 Smart AI
+- 📱 Fully responsive
+- ✨ Smooth UI animations
 
-Easy
+---
 
-Medium
+## 📸 SCREENSHOTS
 
-Hard
+### 🏠 Home Screen
+![Home Screen](./screenshots/home.png)
 
-Unbeatable (Impossible 😎)
+### 🎮 Gameplay
+![Gameplay](./screenshots/gameplay.png)
 
-❎ Play as X or O
+### 🏆 Game Result
+![Result](./screenshots/result.png)
 
-🤖 Smart AI Moves
+---
 
-✨ Smooth animations & clean UI
+## 🕹️ HOW TO PLAY
+1. Select difficulty  
+2. Choose X or O  
+3. Make your move  
+4. Try to beat the AI  
 
-📱 Fully responsive (mobile + desktop)
+---
 
-📸 Screenshots
+## 🛠️ TECH STACK
+- HTML  
+- CSS  
+- JavaScript  
 
-Upload images to your repo and paste their links here.
+---
 
-🏠 Home Screen
-![Home Screen]("C:\Users\ASUS\OneDrive\Pictures\Screenshots\home.png")
-
-🎮 Gameplay
-![Gameplay](path/to/gameplay.png)
-
-🏆 Game Result
-![Result](path/to/result.png)
-
-🕹️ How to Play
-
-Select your difficulty
-
-Choose X or O
-
-Make your move
-
-Try to defeat the AI!
-
-🛠️ Tech Stack
-
-HTML5
-
-CSS3
-
-JavaScript (Vanilla)
-
-📂 Project Structure
+## 📂 PROJECT STRUCTURE
 tic-tac-toe-main/
 │── index.html
 │── style.css
 │── script.js
 │── animation.cc
-│── .gitignore
+│── screenshots/
+│ ├── home.png
+│ ├── gameplay.png
+│ └── result.png
 └── README.md
 
-🌐 Live Demo
+---
 
+## 🌐 LIVE DEMO  
 👉 https://mrsarthakgupta.github.io/tic-tac-toe-main/
 
-⭐ Support
+---
 
-If you like this project, consider giving it a ⭐ on GitHub!
+## ⭐ SUPPORT  
+If you like this project, please give it a ⭐ on GitHub!
