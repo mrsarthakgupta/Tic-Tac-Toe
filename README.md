@@ -2,8 +2,7 @@
 
 A clean and modern Tic-Tac-Toe game with smart AI and multiple difficulty levels.
 
-🎮 **Live Demo:**  
-👉 [https://mrsarthakgupta.github.io/tic-tac-toe-main/](https://mrsarthakgupta.github.io/Tic-Tac-Toe/)
+🎮Live Demo:[https://mrsarthakgupta.github.io/tic-tac-toe-main/](https://mrsarthakgupta.github.io/Tic-Tac-Toe/)
 
 ---
 
@@ -45,6 +44,7 @@ A clean and modern Tic-Tac-Toe game with smart AI and multiple difficulty levels
 ---
 
 ## 📂 PROJECT STRUCTURE
+```
 tic-tac-toe-main/
 │── index.html
 │── style.css
@@ -55,13 +55,10 @@ tic-tac-toe-main/
 │ ├── gameplay.png
 │ └── result.png
 └── README.md
-
----
+```
 
 ## 🌐 LIVE DEMO  
 👉 https://mrsarthakgupta.github.io/tic-tac-toe-main/
-
----
 
 ## ⭐ SUPPORT  
 If you like this project, please give it a ⭐ on GitHub!
